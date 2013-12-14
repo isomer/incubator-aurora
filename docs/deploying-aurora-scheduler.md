@@ -48,7 +48,7 @@ Like Mesos, Aurora uses command-line flags for runtime configuration. As such th
       # Log configuration, etc.
     )
 
-   # Environment variables controlling libmesos
+    # Environment variables controlling libmesos
     export JAVA_HOME=...
     export GLOG_v=1
     export LIBPROCESS_PORT=8083
